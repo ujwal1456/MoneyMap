@@ -13,7 +13,7 @@ A full-stack **MERN (MongoDB, Express, React, Node.js)** application to track pe
 * 📈 Expense Summary Visualization
 * 📝 Notes for each transaction
 * 📂 File attachment support
-* 🔐 Authentication (if implemented)
+* 🔐 Authentication
 
 ---
 
